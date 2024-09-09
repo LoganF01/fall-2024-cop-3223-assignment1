@@ -1,1 +1,14 @@
-//mother
+//*********************************************************************************** */
+//Logan Farmer
+// 9/8/24
+//COP 3223c, Juan Para
+//This assignment does not rely on the main functions but relys on the user to fracture multiple funtions throughout the assignment.
+// This assignment takes in multiple 
+//*********************************************************************************** */
+int main(int arg1,char **arg2){
+    number_and_letter(5, 'h');
+    number_letter(7, 'k');
+
+    return 0;
+}
+
