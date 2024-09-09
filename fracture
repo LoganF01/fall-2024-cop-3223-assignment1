@@ -5,10 +5,15 @@
 //This assignment does not rely on the main functions but relys on the user to fracture multiple funtions throughout the assignment.
 // This assignment takes in multiple 
 //*********************************************************************************** */
-int main(int arg1,char **arg2){
-    number_and_letter(5, 'h');
-    number_letter(7, 'k');
 
+#include <stdio.h>
+#include <math.h>
+
+int main(int argc, char **argv) {
+    calculateDistance();
+    calculatePerimeter();
+    calculateArea();
+    calculateWidth();
+    calculateHeight();
     return 0;
 }
-
